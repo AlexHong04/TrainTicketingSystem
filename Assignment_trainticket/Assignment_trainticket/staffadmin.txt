@@ -1,0 +1,10 @@
+AD1002|kokhong|214124|hong@gmail.com|F|012-44444444|Administrator|hong54321|01-01-2001
+AD1003|Ong yee lin|0123456789|yl@gmail.com|F|012-3456789|Administrator|yl1234567|02-02-2005
+AD1004|mok shao kang|123456777|kang@gmail.com|M|012-9876543|Administrator|kang1234|01-03-2004
+AD1005|ong li hoong|2342353525|lihong@gmail.com|F|012-3456789|Administrator|lihong12345|01-01-2005
+AD1006|hong|012234243|hong@gmail.com|F|012-3454545|Administrator|hong1234|01-03-2000
+AD1007|Alyssa|1234567890|1234_a@gmail.com|M|012-1234567|Administrator|130n9_0404|21-04-1988
+AD1008|ong li hoong|1234567789|lihoong@gmail.com|F|012-3456789|Administrator|lh12345678|01-04-1999
+AD1009|ho chia shuen|123456789|shuen@gmail.com|F|012-3456789|administrator|shuen1234|01-02-1998
+AD1010|terry|141343432432|terry@gmail.com|F|012-34456789|administrator|terry123|01-01-2004
+AD1011|kokhong|123456666|hong123344@gmail.com|M|012-44444444|admin|hong1234|01-02-2000
